@@ -1,4 +1,4 @@
-```markdown
+
 # 🎨 Voting Art NFT: Evolving Art Through Community Voting
 
 Voting Art NFT is an innovative project that revolutionizes the world of digital art by enabling artworks to evolve based on FHE-encrypted holder voting. Powered by **Zama's Fully Homomorphic Encryption technology**, this platform uniquely combines the concepts of NFTs and decentralized autonomous organizations (DAOs), allowing the community to collectively influence and shape the visual presentation of art through encrypted voting. 
